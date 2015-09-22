@@ -37,9 +37,9 @@ Aozora_Win.R （Windowsユーザー向け）ないし Aozora_UTF8.R （Macユーザー向け）
 利用方法は，まずスクリプトを source() 関数で読み込み，
 つづいて青空文庫からダウンロードしたファイルを指定して実行します．
 
- source("C:/Users/ishida/Documents/data/script/Aozora_Win.R")
+ source("C:/Users/ユーザ名/Documents/data/script/Aozora_Win.R")
 
- Aozora_Win ("C:/Users/ishida/Documents/data/対象ファイル名")
+ Aozora_Win ("C:/Users/ユーザ名/Documents/data/対象ファイル名")
 
 
 実行すると，もとのファイル名に "-u.txt" ないし "-w.txt" を付加したファイルが
